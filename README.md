@@ -1,1 +1,1 @@
-# botocampspot
+# bootcampspotSC
